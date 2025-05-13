@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I am an PhD candidate at Princeton University. Below is some information on replication files and data that are available on my GitHub.
 
-<!--
-**vincentheddesheimer/vincentheddesheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Website](https://vincentheddesheimer.github.io)
+- [CV](https://vincentheddesheimer.github.io/cv/VHeddesheimer_CV.pdf)
+- [E-Mail](vincent.heddesheimer@princeton.edu)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GERDA project
+
+With Hanno Hilbig, Florian Sichart, and Andreas Wiedemann, we collected data on German election results at the local level for various types of elections.
+
+- Main GitHub repo: <https://github.com/awiedem/german_election_data>
+- R package to access the data: <https://github.com/hhilbig/gerda>
