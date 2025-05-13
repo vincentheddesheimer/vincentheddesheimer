@@ -10,7 +10,7 @@
 
 ---
 
-## GERDA — German Election Database
+# GERDA — German Election Database
 
 I am a co‑creator of **GERDA** (with Hanno Hilbig, Florian Sichart, and Andreas Wiedemann).  
 We collect, clean, and harmonize German election results across levels of government.
