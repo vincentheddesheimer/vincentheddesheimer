@@ -8,6 +8,8 @@
 [![CV](https://img.shields.io/badge/CV-PDF-orange?style=flat-square&logo=adobe-acrobat-reader)](https://vincentheddesheimer.github.io/cv/VHeddesheimer_CV.pdf)
 [![Email](https://img.shields.io/badge/Email-vincent.heddesheimer%40princeton.edu-red?style=flat-square&logo=gmail)](mailto:vincent.heddesheimer@princeton.edu)
 
+Hi, I am a PhD Candidate at Princeton University. I study political economy.
+
 ----
 
 # GERDA — German Election Database
