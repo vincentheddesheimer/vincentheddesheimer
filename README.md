@@ -2,7 +2,7 @@ Hi, I am an PhD candidate at Princeton University. Below is some information on 
 
 - [Website](https://vincentheddesheimer.github.io)
 - [CV](https://vincentheddesheimer.github.io/cv/VHeddesheimer_CV.pdf)
-- [E-Mail](vincent.heddesheimer@princeton.edu)
+- [E-Mail](<vincent.heddesheimer@princeton.edu>)
 
 
 ### GERDA project
