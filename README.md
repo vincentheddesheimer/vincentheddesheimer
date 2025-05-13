@@ -8,8 +8,6 @@
 [![CV](https://img.shields.io/badge/CV-PDF-orange?style=flat-square&logo=adobe-acrobat-reader)](https://vincentheddesheimer.github.io/cv/VHeddesheimer_CV.pdf)
 [![Email](https://img.shields.io/badge/Email-vincent.heddesheimer%40princeton.edu-red?style=flat-square&logo=gmail)](mailto:vincent.heddesheimer@princeton.edu)
 
----
-
 # GERDA — German Election Database
 
 I am a co‑creator of **GERDA** (with Hanno Hilbig, Florian Sichart, and Andreas Wiedemann).  
