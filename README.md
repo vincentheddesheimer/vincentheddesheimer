@@ -7,7 +7,9 @@ Hi, I am an PhD candidate at Princeton University. Below is some information on 
 
 ### GERDA project
 
-With Hanno Hilbig, Florian Sichart, and Andreas Wiedemann, we collected data on German election results at the local level for various types of elections.
+I am a co-creator of the German Election Database (with Hanno Hilbig, Florian Sichart, and Andreas Wiedemann). We collect, clean and harmonize data for a broad set of German election result.
 
-- Main GitHub repo: <https://github.com/awiedem/german_election_data>
-- R package to access the data: <https://github.com/hhilbig/gerda>
+- Website: <http://www.german-elections.com/>
+- GitHub repo: <https://github.com/awiedem/german_election_data>
+- R package: <https://github.com/hhilbig/gerda>
+- Paper: <https://www.nature.com/articles/s41597-025-04811-5>
