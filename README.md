@@ -1,15 +1,23 @@
-Hi, I am an PhD candidate at Princeton University. Below is some information on replication files and data that are available on my GitHub.
+<!-- ———————————————————————————————————————————————————————————— -->
+<!-- Vincent Heddesheimer · Princeton University · Ph.D. Candidate -->
+<!-- ———————————————————————————————————————————————————————————— -->
 
-- [Website](https://vincentheddesheimer.github.io)
-- [CV](https://vincentheddesheimer.github.io/cv/VHeddesheimer_CV.pdf)
-- [E-Mail](mailto:vincent.heddesheimer@princeton.edu)
+# Vincent Heddesheimer&nbsp; · Ph.D. Candidate, Princeton University
 
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://vincentheddesheimer.github.io)
+[![CV](https://img.shields.io/badge/CV-PDF-orange?style=flat-square&logo=adobe-acrobat-reader)](https://vincentheddesheimer.github.io/cv/VHeddesheimer_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-vincent.heddesheimer%40princeton.edu-red?style=flat-square&logo=gmail)](mailto:vincent.heddesheimer@princeton.edu)
 
-### GERDA project
+---
 
-I am a co-creator of the German Election Database (with Hanno Hilbig, Florian Sichart, and Andreas Wiedemann). We collect, clean and harmonize data for a broad set of German election result.
+## GERDA — German Election Database
 
-- Website: <http://www.german-elections.com/>
-- GitHub repo: <https://github.com/awiedem/german_election_data>
-- R package: <https://github.com/hhilbig/gerda>
-- Paper: <https://www.nature.com/articles/s41597-025-04811-5>
+I am a co‑creator of **GERDA** (with Hanno Hilbig, Florian Sichart, and Andreas Wiedemann).  
+We collect, clean, and harmonize German election results across levels of government.
+
+| &nbsp; | Resource | Link |
+|-------|-----------|------|
+| 🌐 | **Project site** | [german‑elections.com](http://www.german-elections.com/) |
+| 💻 | **GitHub repo** | [`awiedem/german_election_data`](https://github.com/awiedem/german_election_data) |
+| 📦 | **R package** | [`hhilbig/gerda`](https://github.com/hhilbig/gerda) |
+| 📄 | **Data descriptor (Nature Scientific Data)** | [s41597‑025‑04811‑5](https://www.nature.com/articles/s41597-025-04811-5) |
