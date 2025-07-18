@@ -24,3 +24,8 @@ We collect, clean, and harmonize German election results across levels of govern
 📦 [R package](https://github.com/hhilbig/gerda) 
 
 📄 [Data descriptor (Nature Scientific Data)](https://www.nature.com/articles/s41597-025-04811-5)
+
+
+# Replication Files
+
+- Project on [economic insecurity and affective polarization](https://github.com/vincentheddesheimer/insecure_polarization), with Joanna Bryson
