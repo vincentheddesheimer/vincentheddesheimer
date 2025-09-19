@@ -28,4 +28,5 @@ We collect, clean, and harmonize German election results across levels of govern
 
 # Replication Files
 
+- Project on [green transition and political polarization](https://github.com/vincentheddesheimer/green_transition_replication), with Hanno Hilbig and Erik Voeten
 - Project on [economic insecurity and affective polarization](https://github.com/vincentheddesheimer/insecure_polarization), with Joanna Bryson
